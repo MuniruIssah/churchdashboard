@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.buttonNav{
+  width: 100%; 
+  border-radius: 12px; 
+  background-color: #2196f3;
+  cursor: pointer;
+  border: none;
+  padding: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+  margin-bottom: 30px;
+}
+.buttonNav:hover{
+  background-color: #2196f380;
+  
+}
